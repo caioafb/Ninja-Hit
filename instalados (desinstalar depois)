@@ -1,0 +1,11 @@
+sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev libgl1-mesa-dev libopenal-dev libsndfile-dev libmpg123-dev libgmp-dev
+
+sudo apt install ruby
+
+sudo apt-get install ruby-dev
+
+sudo gem install gosu
+
+sudo gem install ocra
+
+

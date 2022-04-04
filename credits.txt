@@ -1,0 +1,15 @@
+Ninja Hit
+by Caio Batista
+
+Instituto Federal do Rio Grande do Norte
+Tecnologia em Analise e Desenvolvimento de Sistemas
+Programacao de Computadores
+
+---Images---
+
+Game art from http://www.gameart2d.com/
+Licensed under Creative Commons: Public Domain CC0
+
+--Music---
+
+Game soundtrack from http://freesound.org/
