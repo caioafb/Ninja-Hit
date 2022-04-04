@@ -10,10 +10,8 @@ Ninja Hit is a game inspired by the classic Bow & Arrow game.
 .Gosu
 
 # Installation
-sudo apt-get install build-essential libsdl2-dev libsdl2-ttf-dev libpango1.0-dev libgl1-mesa-dev libopenal-dev libsndfile-dev libmpg123-dev libgmp-dev <br>
-sudo apt install ruby <br>
-sudo apt-get install ruby-dev <br>
-sudo gem install gosu <br>
+. https://www.ruby-lang.org/en/documentation/installation/ <br>
+. https://www.libgosu.org/ruby.html
 
 # Usage
 Defeat as many ninjas as you can or play against a friend on a 1x1 match. <br>
