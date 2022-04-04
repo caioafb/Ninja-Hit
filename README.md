@@ -6,7 +6,7 @@ Ninja Hit is a game inspired by the classic Bow & Arrow game.
 
 # Built With
 
-.Ruby
+.Ruby <br>
 .Gosu
 
 # Installation
