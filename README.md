@@ -1,5 +1,5 @@
 # Ninja Hit
-
+![game screenshot](/images/screenshot.png?raw=True)
 # Description
 
 Ninja Hit is a game inspired by the classic Bow & Arrow game.
